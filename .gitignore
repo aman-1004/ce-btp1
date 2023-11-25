@@ -1,3 +1,5 @@
 .venv/
 grid/
 *.csv
+__pycache__/
+.*lock*
